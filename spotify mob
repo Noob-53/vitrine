@@ -1,0 +1,2 @@
+brew install make ldid dpkg zsign libimobiledevice
+uv tool install "cyan @ git+https://github.com/asdfzxcvbn/pyzule-rw"
